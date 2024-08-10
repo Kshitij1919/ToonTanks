@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/03d111b5-2b05-4bbd-b1d2-1a86b2309b3d
 # ToonTanks
  
 Toon tanks is 3D Third Person Shooter game, where a player has to eliminate all the enemy tanks to win. 
@@ -23,17 +21,9 @@ My Contribution: -
 
 - Enemy Tank AI:
   The game consist of two types of Enemy Tank type one stationary other moving and both start to fire towards the Player as soon as the player is firing range of the Tanks. For refernce view the video in the overview section.
-   - Moveable Enemy
-     The Moveable Tank can be customized by utlising the a destination widget attached to the tanks that act as the visual cue for the designer to set start and end location fopr the tank to do a sling shot movement, the movement speed of  the the movable tank can be adjusted by using an exposed vairable called  `Dureation`.
+   - Moveable Enemy:
+     
+     The Moveable Tank can be customized by utlising the a destination widget attached to the tanks that act as the visual cue for the designer to set start and end location fopr the tank to do a sling shot movement, the movement speed of  the the movable tank can be adjusted by using an exposed vairable called  `Duration`.
 
-   Uploading Customisable Movable Enemy .mp4…
-
-
-
-
-https://user-images.githubusercontent.com/77546739/181395715-e9ffb236-e309-44e5-b4a8-dd44843a8377.mp4
-
-
-
-https://user-images.githubusercontent.com/77546739/181395765-90ccff50-f9c3-4726-bb83-4a0c21907487.mp4
+  https://github.com/user-attachments/assets/03d111b5-2b05-4bbd-b1d2-1a86b2309b3d
 
